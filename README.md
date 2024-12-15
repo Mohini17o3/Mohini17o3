@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Front-end developer <br>🌱 I’m currently learning backend development<br>⚡ Fun fact  - I sing and play guitar sometimes
+A Full-Stack developer <br>🌱 I’m currently learning backend development<br>⚡ Fun fact  - I sing and play guitar sometimes
 
 
 ## 🌐 Socials:
